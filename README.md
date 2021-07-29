@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-istawa](https://github.com/istawa)
+- GitHub [@istawa](https://github.com/istawa)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
