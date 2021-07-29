@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://6102d03d2dce19392b0f4df0--confident-panini-cbf744.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/istawa/devchallenge2">
       Solution
     </a>
     <span> | </span>
